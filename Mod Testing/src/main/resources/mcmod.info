@@ -1,0 +1,16 @@
+[
+{
+  "modid": "testmod",
+  "name": "Test Mod",
+  "description": "This is a test mode to practice making mods",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dolphinbob"],
+  "credits": "Mod made by Dolphinbob",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
